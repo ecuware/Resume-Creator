@@ -2,6 +2,9 @@
 
 A simple, elegant, and secure PHP-based resume/CV management system with an admin panel for easy content editing.
 
+<img width="1904" height="907" alt="{7C9BD244-3D34-4AE4-8C85-8FCBE10DCB28}" src="https://github.com/user-attachments/assets/d98619df-a4c8-4b28-9b57-dd7e3018643c" />
+
+
 ## Features
 
 - ✅ **Clean & Modern Design** - Professional resume template
