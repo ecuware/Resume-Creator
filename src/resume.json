@@ -1,0 +1,169 @@
+{
+    "header": {
+        "name": "John Doe",
+        "subtitle": "Senior Software Developer",
+        "nav": [
+            {
+                "label": "john.doe@example.com",
+                "icon": "envelope",
+                "href": "mailto:john.doe@example.com"
+            },
+            {
+                "label": "johndoe",
+                "icon": "github",
+                "href": "https://github.com/johndoe"
+            },
+            {
+                "label": "in/johndoe",
+                "icon": "linkedin",
+                "href": "https://linkedin.com/in/johndoe"
+            },
+            {
+                "label": "San Francisco, CA",
+                "icon": "pin"
+            }
+        ]
+    },
+    "left": [
+        {
+            "name": "Experience",
+            "items": [
+                {
+                    "title": "TechCorp Inc.",
+                    "subtitle": "Senior Software Developer",
+                    "upper": "San Francisco, CA",
+                    "lower": "Jan 2020 – Present",
+                    "bullets": [
+                        "Led a team of *5 developers* in building scalable web applications using *React* and *Node.js*.",
+                        "Implemented *CI/CD pipelines* that reduced deployment time by *40%* and improved code quality.",
+                        "Collaborated with cross-functional teams to deliver *high-quality software* on time and within budget.",
+                        "Mentored junior developers and conducted *code reviews* to maintain coding standards."
+                    ]
+                },
+                {
+                    "title": "StartupXYZ",
+                    "subtitle": "Full Stack Developer",
+                    "upper": "Remote",
+                    "lower": "Mar 2018 – Dec 2019",
+                    "bullets": [
+                        "Developed and maintained *full-stack applications* using *Python*, *Django*, and *PostgreSQL*.",
+                        "Built *RESTful APIs* that served over *100,000 requests* per day with *99.9% uptime*.",
+                        "Optimized database queries resulting in *50% faster* page load times.",
+                        "Implemented *automated testing* that increased code coverage from *60% to 85%*."
+                    ]
+                },
+                {
+                    "title": "WebDev Agency",
+                    "subtitle": "Frontend Developer",
+                    "upper": "New York, NY",
+                    "lower": "Jun 2016 – Feb 2018",
+                    "bullets": [
+                        "Created *responsive web designs* for over *20 client projects* using *HTML5*, *CSS3*, and *JavaScript*.",
+                        "Collaborated with designers to implement *pixel-perfect* UI components.",
+                        "Improved website performance by *optimizing assets* and implementing *lazy loading*."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Skills",
+            "items": [
+                {
+                    "title": "Programming Languages",
+                    "upper": "JavaScript, TypeScript, Python, Java, C++, Go, Rust"
+                },
+                {
+                    "title": "Frameworks & Libraries",
+                    "upper": "React, Vue.js, Node.js, Express, Django, Spring Boot"
+                },
+                {
+                    "title": "Tools & Technologies",
+                    "upper": "Docker, Kubernetes, AWS, Git, PostgreSQL, MongoDB, Redis"
+                }
+            ]
+        }
+    ],
+    "right": [
+        {
+            "name": "Education",
+            "items": [
+                {
+                    "title": "Stanford University",
+                    "subtitle": "B.S. Computer Science",
+                    "upper": "Stanford, CA",
+                    "lower": "Sep 2012 – May 2016"
+                },
+                {
+                    "title": "MIT",
+                    "subtitle": "Software Engineering Certificate",
+                    "upper": "Cambridge, MA",
+                    "lower": "Jan 2017 – Dec 2017"
+                }
+            ]
+        },
+        {
+            "name": "Projects",
+            "items": [
+                {
+                    "title": "TaskManager Pro",
+                    "subtitle": "Project Management Tool",
+                    "href": "https://github.com/johndoe/taskmanager",
+                    "bullets": [
+                        "A *full-stack project management* application built with *React* and *Node.js*.",
+                        "Features include *real-time collaboration*, *file sharing*, and *advanced analytics*.",
+                        "Used by over *1,000 active users* with *4.8/5 star* rating."
+                    ]
+                },
+                {
+                    "title": "CloudSync API",
+                    "subtitle": "Cloud Storage Service",
+                    "href": "https://github.com/johndoe/cloudsync",
+                    "bullets": [
+                        "A *scalable cloud storage API* built with *Go* and *PostgreSQL*.",
+                        "Handles *millions of file operations* daily with *sub-second response times*.",
+                        "Implemented *end-to-end encryption* for secure file storage."
+                    ]
+                },
+                {
+                    "title": "DevTools Extension",
+                    "subtitle": "Browser Extension",
+                    "href": "https://github.com/johndoe/devtools",
+                    "bullets": [
+                        "A *Chrome extension* for developers that provides *advanced debugging* capabilities.",
+                        "Downloaded over *50,000 times* with *4.9/5 star* rating on Chrome Web Store.",
+                        "Built with *TypeScript* and *React* for optimal performance."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "References",
+            "items": [
+                {
+                    "title": "Jane Smith",
+                    "subtitle": "Engineering Manager",
+                    "upper": "TechCorp Inc.",
+                    "lower": "+1 (555) 234-5678"
+                },
+                {
+                    "title": "Michael Johnson",
+                    "subtitle": "CTO",
+                    "upper": "StartupXYZ",
+                    "lower": "+1 (555) 345-6789"
+                },
+                {
+                    "title": "Sarah Williams",
+                    "subtitle": "Senior Developer",
+                    "upper": "WebDev Agency",
+                    "lower": "+1 (555) 456-7890"
+                },
+                {
+                    "title": "David Brown",
+                    "subtitle": "Technical Lead",
+                    "upper": "CloudTech Solutions",
+                    "lower": "+1 (555) 567-8901"
+                }
+            ]
+        }
+    ]
+}

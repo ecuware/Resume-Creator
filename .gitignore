@@ -1,0 +1,18 @@
+# Login attempts file
+.login_attempts.json
+
+# Sensitive config (if moved outside web root)
+# admin_config.php
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
